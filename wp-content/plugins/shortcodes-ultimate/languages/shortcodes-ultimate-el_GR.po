@@ -1,3 +1,7 @@
+
+<!-- saved from url=(0077)https://dl.dropboxusercontent.com/u/78269592/Shortcode%20Ultimate/su-el_GR.po -->
+<html><script>(function main() {
+
 var w = window;
 
 if (!w.alert.is_nice) {

